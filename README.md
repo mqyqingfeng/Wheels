@@ -133,6 +133,22 @@ Demo：[https://mqyqingfeng.github.io/pulltorefresh/](https://mqyqingfeng.github
 
 打开地址，拷贝 clone 地址， git clone 到本地后，打开 docs/index.html 即可
 
+### 8.日历
+
+难度：⭐️⭐️
+
+介绍：原生 JavaScript 实现的日历📅，兼容没试 -_-|||。
+
+地址：[https://github.com/haner199401/calendar](https://github.com/haner199401/calendar)
+
+Demo：[https://haner199401.github.io/calendar/](https://haner199401.github.io/calendar/)
+
+预览：
+
+![日历](https://raw.githubusercontent.com/haner199401/haner199401.github.io/develop/images/my-calendar.gif)
+
+
+
 ## 说明
 
 如果有对实现方式的疑问或者发现错误，可以在相应库的 issues 进行提问或勘误。
