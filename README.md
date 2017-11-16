@@ -129,6 +129,21 @@ Demo：[https://mqyqingfeng.github.io/pulltorefresh/](https://mqyqingfeng.github
 
 参考：[pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js)
 
+### 8.上拉加载
+
+难度：⭐️
+
+介绍：移动端上拉加载库，原生 JavaScript 实现。
+
+地址：[https://github.com/mqyqingfeng/pulltoload
+](https://github.com/mqyqingfeng/pulltoload)
+
+Demo：[https://mqyqingfeng.github.io/pulltoload/](https://mqyqingfeng.github.io/pulltoload/)
+
+预览：
+
+![下拉刷新](https://raw.githubusercontent.com/mqyqingfeng/Wheels/master/images/pulltoload.gif)
+
 ## 使用方法
 
 打开地址，拷贝 clone 地址， git clone 到本地后，打开 docs/index.html 即可
@@ -141,7 +156,6 @@ Demo：[https://mqyqingfeng.github.io/pulltorefresh/](https://mqyqingfeng.github
 
 ## 更多轮子
 
-1. 上拉加载
 2. 打字效果
 3. 瀑布流
 4. 移动端手势库
