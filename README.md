@@ -40,6 +40,7 @@ vczh 在知乎问题 [如何能以后达到温赵轮三位大神的水平？](ht
 6. [预加载](#6预加载)
 7. [下拉刷新](#7下拉刷新)
 8. [上拉加载](#8上拉加载)
+9. [日历](#9日历)
 
 ## 列表
 
@@ -175,6 +176,8 @@ Demo：[https://mqyqingfeng.github.io/pulltoload/](https://mqyqingfeng.github.io
 
 介绍：原生 JavaScript 实现的日历📅，兼容没试 -_-|||。
 
+作者：[Haner](https://github.com/haner199401)
+
 地址：[https://github.com/haner199401/calendar](https://github.com/haner199401/calendar)
 
 Demo：[https://haner199401.github.io/calendar/](https://haner199401.github.io/calendar/)
@@ -182,8 +185,6 @@ Demo：[https://haner199401.github.io/calendar/](https://haner199401.github.io/c
 预览：
 
 ![日历](https://raw.githubusercontent.com/haner199401/haner199401.github.io/develop/images/my-calendar.gif)
-
-
 
 ## 说明
 
