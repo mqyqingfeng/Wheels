@@ -186,6 +186,20 @@ Demo：[https://haner199401.github.io/calendar/](https://haner199401.github.io/c
 
 ![日历](https://raw.githubusercontent.com/haner199401/haner199401.github.io/develop/images/my-calendar.gif)
 
+### 10.打字效果
+
+难度：⭐️
+
+介绍：原生 JavaScript 实现的自动打字效果。
+
+地址：[https://github.com/mqyqingfeng/AutoType](https://github.com/mqyqingfeng/AutoType)
+
+Demo：[https://mqyqingfeng.github.io/AutoType/](https://mqyqingfeng.github.io/AutoType/)
+
+预览：
+
+![打字](https://raw.githubusercontent.com/mqyqingfeng/AutoType/master/demonstration.gif)
+
 ## 说明
 
 如果有对实现方式的疑问或者发现错误，可以在相应库的 issues 进行提问或勘误。
@@ -194,8 +208,7 @@ Demo：[https://haner199401.github.io/calendar/](https://haner199401.github.io/c
 
 ## 更多轮子
 
-1. 打字效果
-2. 瀑布流
-3. 移动端手势库
-4. 拖动
-5. 自适应的输入框
+1. 瀑布流
+2. 移动端手势库
+3. 拖动
+4. 自适应的输入框
