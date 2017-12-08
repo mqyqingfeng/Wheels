@@ -200,6 +200,20 @@ Demo：[https://mqyqingfeng.github.io/AutoType/](https://mqyqingfeng.github.io/A
 
 ![打字](https://raw.githubusercontent.com/mqyqingfeng/AutoType/master/demonstration.gif)
 
+### 11. 瀑布流
+
+难度：⭐️⭐️
+
+介绍：原生 JavaScript 实现的瀑布流效果，兼容到 IE8。
+
+地址：[https://github.com/mqyqingfeng/waterfall](https://github.com/mqyqingfeng/waterfall)
+
+Demo：[https://mqyqingfeng.github.io/waterfall/](https://mqyqingfeng.github.io/waterfall/)
+
+预览：
+
+![演示图](https://raw.githubusercontent.com/mqyqingfeng/waterfall/master/demonstration.gif)
+
 ## 说明
 
 如果有对实现方式的疑问或者发现错误，可以在相应库的 issues 进行提问或勘误。
@@ -208,7 +222,6 @@ Demo：[https://mqyqingfeng.github.io/AutoType/](https://mqyqingfeng.github.io/A
 
 ## 更多轮子
 
-1. 瀑布流
-2. 移动端手势库
-3. 拖动
-4. 自适应的输入框
+1. 移动端手势库
+2. 拖动
+3. 自适应的输入框
