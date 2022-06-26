@@ -41,6 +41,9 @@ vczh 在知乎问题 [如何能以后达到温赵轮三位大神的水平？](ht
 7. [下拉刷新](#7下拉刷新)
 8. [上拉加载](#8上拉加载)
 9. [日历](#9日历)
+10. [打字效果](#10打字效果)
+11. [瀑布流](#11瀑布流)
+12. [抽奖插件](#12抽奖插件)
 
 ## 列表
 
@@ -200,7 +203,7 @@ Demo：[https://mqyqingfeng.github.io/AutoType/](https://mqyqingfeng.github.io/A
 
 ![打字](https://raw.githubusercontent.com/mqyqingfeng/AutoType/master/demonstration.gif)
 
-### 11. 瀑布流
+### 11.瀑布流
 
 难度：⭐️⭐️
 
@@ -214,6 +217,22 @@ Demo：[https://mqyqingfeng.github.io/waterfall/](https://mqyqingfeng.github.io/
 
 ![演示图](https://raw.githubusercontent.com/mqyqingfeng/waterfall/master/demonstration.gif)
 
+### 12.抽奖插件
+
+难度：⭐️⭐️
+
+介绍：原生 JS 实现的【大转盘 / 九宫格 / 老虎机】抽奖插件
+
+地址：[https://github.com/buuing/lucky-canvas](https://github.com/buuing/lucky-canvas)
+
+Demo：[https://100px.net/demo/more.html](https://100px.net/demo/more.html)
+
+预览：
+
+<img width="1509" alt="image" src="https://user-images.githubusercontent.com/36689704/175820429-78d1f43f-581e-4255-b7b5-5280a28e86e9.png">
+
+
+
 ## 说明
 
 如果有对实现方式的疑问或者发现错误，可以在相应库的 issues 进行提问或勘误。
@@ -225,3 +244,5 @@ Demo：[https://mqyqingfeng.github.io/waterfall/](https://mqyqingfeng.github.io/
 1. 移动端手势库
 2. 拖动
 3. 自适应的输入框
+
+
